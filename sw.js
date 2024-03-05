@@ -1,5 +1,5 @@
-const dataCacheName = 'pwa-test-data';
-const cacheName = 'pwa-test';
+const dataCacheName = 'ptms971-datacache';
+const cacheName = 'ptms971-cache';
 const filesToCache = [
   '/',
   '/index.html',
